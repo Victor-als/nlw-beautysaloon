@@ -1,4 +1,4 @@
-# Site beaty saloon NLW rocketseat.  🧮
+# Site beaty saloon NLW rocketseat. 🚀
 
 Esse projeto é um site de salão de beleza, foi feito na semana do NLW da rockeseat. 
 
